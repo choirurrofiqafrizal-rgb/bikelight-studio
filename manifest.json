@@ -1,0 +1,20 @@
+```json
+{
+  "nav_mode": "none",
+  "name": "BikeLight Studio Control",
+  "short_name": "BikeLight",
+  "description": "Aplikasi Pengendali Animasi Lampu Belakang Sepeda Pintar",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme-color": "#ff5722",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://flaticon.com",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
