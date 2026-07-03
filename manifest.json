@@ -10,10 +10,9 @@
   "id": "/bikelight-studio/",
   "icons": [
     {
-      "src": "data:image/svg+xml;utf8,<svg xmlns='http://w3.org' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%23ff5722'/><text x='50' y='60' font-family='Arial, sans-serif' font-size='30' font-weight='bold' fill='white' text-anchor='middle'>BIKE</text></svg>",
+      "src": "icon-512x512.png",
       "sizes": "512x512",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
